@@ -1,3 +1,3 @@
 # TestRepo
 
-# Demo github project
+# Demo only github project
